@@ -1,0 +1,23 @@
+注册:
+  username: 小FFFFFFF
+  email: 1316306266@qq.com
+  password: 12345678
+  password_conﬁrm: 12345678
+
+注册的响应:
+  username: 小FFFFFFF
+
+登录:
+  username:
+    nickname: 111
+    realname: 李晨阳
+  password: [1,2,3]
+
+创建项目:
+  name: 测试开发平台
+  leader: 项目负责人
+  tester: 项目测试人员
+  programmer: 开发人员
+  publish_app: 发布应用
+  desc: 简要概述
+

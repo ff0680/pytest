@@ -1,0 +1,199 @@
+[2020-06-12 14:09:54,921]-logs.py]-INFO:---测试开始----
+[2020-06-12 14:09:54,921]-logs.py]-INFO:操作步骤1,2,3
+[2020-06-12 14:09:54,921]-logs.py]-WARNING:----测试结束----
+[2020-06-12 15:14:16,345]-logs.py]-INFO:请求数据：{'username':'小FFFFFFF','email':'1316306266@qq.com','password':12345678,'password_conﬁrm':12345678}
+[2020-06-12 15:14:17,534]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:17,538]-logs.py]-INFO:请求数据：{'username':'小FFFFFFF','email':'1316306266@qq.com','password':12345678,'password_conﬁrm':12345678}
+[2020-06-12 15:14:17,610]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:17,614]-logs.py]-INFO:请求数据：{'username':'小FFFF','email':'1316306266@qq.com','password':12345678,'password_conﬁrm':12345678}
+[2020-06-12 15:14:17,690]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:17,692]-logs.py]-INFO:请求数据：{'username':'小FFFFF','email':'1316306266@qq.com','password':12345678,'password_conﬁrm':12345678}
+[2020-06-12 15:14:17,774]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:17,778]-logs.py]-INFO:请求数据：{'username':'小FFFFFFFFFFFFFFFFFF','email':'1316306266@qq.com','password':12345678,'password_conﬁrm':12345678}
+[2020-06-12 15:14:17,852]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:17,856]-logs.py]-INFO:请求数据：{'username':'小FFFFFFFFFFFFFFFFFFF','email':'1316306266@qq.com','password':12345678,'password_conﬁrm':12345678}
+[2020-06-12 15:14:17,930]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:17,934]-logs.py]-INFO:请求数据：{'username':'小FFFFFFFFFFFFFFFFFFFF','email':'1316306266@qq.com','password':12345678,'password_conﬁrm':12345678}
+[2020-06-12 15:14:18,015]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,019]-logs.py]-INFO:请求数据：{'username':'小FFFFFFA','email':'1316306266qq.com','password':12345678,'password_conﬁrm':12345678}
+[2020-06-12 15:14:18,103]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,107]-logs.py]-INFO:请求数据：{'username':'小FFFFFFB','email':'1316306266@qq.com','password':12345678,'password_conﬁrm':12345678}
+[2020-06-12 15:14:18,186]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,188]-logs.py]-INFO:请求数据：{'username':'小FFFFFFC','email':'1316306266@qq.com','password':12345,'password_conﬁrm':12345678}
+[2020-06-12 15:14:18,268]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,272]-logs.py]-INFO:请求数据：{'username':'小FFFFFFD','email':'1316306266@qq.com','password':123456,'password_conﬁrm':12345678}
+[2020-06-12 15:14:18,350]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,354]-logs.py]-INFO:请求数据：{'username':'小FFFFFFE','email':'1316306266@qq.com','password':1234567,'password_conﬁrm':12345678}
+[2020-06-12 15:14:18,430]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,432]-logs.py]-INFO:请求数据：{'username':'小FFFFFFH','email':'1316306266@qq.com','password':1234567891234567891,'password_conﬁrm':12345678}
+[2020-06-12 15:14:18,506]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,509]-logs.py]-INFO:请求数据：{'username':'小FFFFFFI','email':'1316306266@qq.com','password':12345678912345678912,'password_conﬁrm':12345678}
+[2020-06-12 15:14:18,591]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,593]-logs.py]-INFO:请求数据：{'username':'小FFFFFFJ','email':'1316306266@qq.com','password':123456789123456789123,'password_conﬁrm':12345678}
+[2020-06-12 15:14:18,665]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,667]-logs.py]-INFO:请求数据：{'username':'小FFFFFFC','email':'1316306266@qq.com','password':12345,'password_conﬁrm':12345678}
+[2020-06-12 15:14:18,740]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,742]-logs.py]-INFO:请求数据：{'username':'小FFFFFFD','email':'1316306266@qq.com','password':123456,'password_conﬁrm':123456}
+[2020-06-12 15:14:18,821]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,823]-logs.py]-INFO:请求数据：{'username':'小FFFFFFE','email':'1316306266@qq.com','password':1234567,'password_conﬁrm':1234567}
+[2020-06-12 15:14:18,897]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,900]-logs.py]-INFO:请求数据：{'username':'小FFFFFFH','email':'1316306266@qq.com','password':1234567891234567891,'password_conﬁrm':1234567891234567891}
+[2020-06-12 15:14:18,970]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:18,972]-logs.py]-INFO:请求数据：{'username':'小FFFFFFI','email':'1316306266@qq.com','password':12345678912345678912,'password_conﬁrm':12345678912345678912}
+[2020-06-12 15:14:19,045]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:19,048]-logs.py]-INFO:请求数据：{'username':'小FFFFFFJ','email':'1316306266@qq.com','password':123456789123456789123,'password_conﬁrm':123456789123456789123}
+[2020-06-12 15:14:19,129]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:19,131]-logs.py]-INFO:请求数据：{'username':'小FFFFFFJ','email':'1316306266@qq.com','password':1234567823456789123,'password_conﬁrm':123456789123456789123}
+[2020-06-12 15:14:19,207]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:19,212]-logs.py]-INFO:请求数据：{'username':'','email':'1316306266@qq.com','password':12345678,'password_conﬁrm':12345678}
+[2020-06-12 15:14:19,300]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:19,304]-logs.py]-INFO:请求数据：{'username':'小FFFFFFF','email':'','password':12345678,'password_conﬁrm':12345678}
+[2020-06-12 15:14:19,386]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:14:19,389]-logs.py]-INFO:请求数据：{'username':'小FFFFFFF','email':'1316306266@qq.com','password':'','password_conﬁrm':12345678}
+[2020-06-12 15:14:19,468]-logs.py]-INFO:响应数据：{'non_field_errors': ['无效数据。期待为字典类型，得到的是 str 。']}
+[2020-06-12 15:20:24,219]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_conﬁrm': 12345678}
+[2020-06-12 15:20:24,345]-logs.py]-INFO:响应数据：{'password_confirm': ['该字段是必填项。']}
+[2020-06-12 15:21:37,292]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 15:21:37,529]-logs.py]-INFO:响应数据：{'id': 5, 'username': '小FFFFFFF', 'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzI4OTcsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.KMdJk7l5fsBK6hMJVAFE-1WJd_xwfFX9yCA_GC7NQ2Y'}
+[2020-06-12 15:22:58,937]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 15:22:59,033]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 15:38:03,870]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 15:38:03,986]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 15:38:03,989]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 15:38:04,197]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzM4ODQsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.L61nrL3SmBvWqz9tKVps9ex6O94OMFsPbAc-NlsHSt0', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 15:41:38,995]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 15:41:39,096]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 15:41:39,098]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 15:41:39,300]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzQwOTksImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.IloodA3WInDaRu78BEfZ13T6y4TFUFF7eisA7uTH3Zw', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 15:41:50,234]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 15:41:50,330]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 15:41:50,391]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 15:41:50,588]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzQxMTAsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.e5dschUje8aUAnW_80h77VBRSkl00YA_29JModO6zGo', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:01:56,705]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:01:57,132]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:01:57,197]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:01:57,403]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzUzMTcsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.Jn0MWv7wvbYSvndvUV6-FFDGHZ-9BjVVJ1XeGN7fzQs', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:01:57,407]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:04:56,929]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:04:57,038]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:04:57,178]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:04:57,376]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzU0OTcsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.AZ0QtAnk_t73frwAtWUa6ejIaeqaFvcMFVBG-XiSHss', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:05:42,239]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:24:06,298]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:24:07,413]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:24:07,477]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:24:07,695]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzY2NDcsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.8pqa0PJaYEQ4MfTEzedf8gTX2eaBWwdStSnn1q-QVio', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:24:07,704]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:25:12,451]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:25:12,556]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:25:12,700]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:25:12,905]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzY3MTIsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.UnajUkx9yVw6tESKwTLM8H3qWYaxISmKQvXstuemqcE', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:26:15,288]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:26:15,386]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:26:15,460]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:26:15,668]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzY3NzUsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.TzOE3oafGECqgxm8tUODWRgCC1ffG3FTuudjI-ReYYk', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:26:15,745]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:27:14,966]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:27:15,059]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:27:15,128]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:27:15,333]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzY4MzUsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.yCdTlrBok_PYDyL2K1lJl1JilPYB726uDnjJjHrMluQ', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:27:15,387]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:30:32,668]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:30:32,774]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:31:21,665]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:31:32,249]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzcwOTAsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.UOQEvJ8NOBqoZqwtS1XkSuUHuJxkUSAHB9RVUm_0yA8', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:33:41,253]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:37:35,120]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:37:35,223]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:37:35,287]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:37:35,485]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzc0NTUsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.qRRUJSHMjiWf882yj-eOy7LV0HUorh7_TvXPv81HyC8', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:37:35,492]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:38:45,683]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:38:45,782]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:38:45,851]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:38:46,058]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzc1MjYsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.3jbNvyueebJBotRFKcZgtGoXViZac7Yw4XYbxosVHFA', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:38:46,064]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:39:41,379]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:39:41,493]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:39:41,659]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:39:41,858]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzc1ODEsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.RtqA-KSPdAUVEeJVT3ViLT6HHGYnzAtslD-glDL3qNs', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:39:41,865]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:39:51,215]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:40:03,842]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:40:23,432]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:40:31,777]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzc2MjcsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.DQ6Kfuh9rub8MQJtKxZg71Hhy_XKKDnWnbbT3fraKzk', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:40:54,377]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:41:37,555]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:41:37,651]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:41:37,714]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:41:37,905]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzc2OTcsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.zI1WqHnasghNiqxhAI6srfbacY3YV7EqK3uIRT5uxcM', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:41:37,912]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:43:18,686]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:43:18,786]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:43:18,848]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:43:19,042]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzc3OTksImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.JmGuxkFPUq3FnF5N2nvvdSDIW9_a6LVFK6Iqw78KORs', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:43:19,048]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:43:51,102]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:43:51,190]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:43:51,252]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:43:51,479]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzc4MzEsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.2llhr8Hqrlnm8QMPXpCIpTQ2NpOiEFVn6U0TVslSdp0', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:43:51,486]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:44:25,591]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:44:25,681]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:44:25,742]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:44:25,956]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzc4NjYsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.-d5m8GkJysgEYZEOxdoXsFWPPvGz8AaiFNlqZ2R-Qkw', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:44:25,963]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:44:26,057]-logs.py]-INFO:响应数据：{'id': 19, 'create_time': '2020-06-12T16:44:26.096948+08:00', 'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:45:26,838]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:45:26,927]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:45:26,931]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:45:27,130]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzc5MjcsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.7a8b9dnZ14xsgu-dIjao3UzPduoSdDrFQa1Z2_WE0vU', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:45:27,137]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:45:27,222]-logs.py]-INFO:响应数据：{'name': ['具有 项目名称 的 项目信息 已存在。']}
+[2020-06-12 16:46:55,846]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 16:46:55,937]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 16:46:55,941]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 16:46:56,140]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwMzgwMTYsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.kSXH8grKB5G2ZqzSWb-h7Mjg8GbOtX_ezyw8VnoaCZw', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 16:46:56,145]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台1.0', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 16:46:56,229]-logs.py]-INFO:响应数据：{'id': 20, 'create_time': '2020-06-12T16:46:56.273802+08:00', 'name': '测试开发平台1.0', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:06:02,420]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '测试开发平台1.0', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:06:41,900]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '开发测试平台7435', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:06:42,015]-logs.py]-INFO:响应数据：{'id': 30, 'create_time': '2020-06-12T17:06:42.057756+08:00', 'name': '开发测试平台7435', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:08:54,618]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '开发测试平台168', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:08:54,734]-logs.py]-INFO:响应数据：{'id': 31, 'create_time': '2020-06-12T17:08:54.772305+08:00', 'name': '开发测试平台168', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:15:32,892]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': "{'name': '开发测试平台9819', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}", 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:16:29,537]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': "{'name': '开发测试平台5543', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}", 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:18:50,203]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': "{'name': '开发测试平台4208', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}", 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:38:51,745]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 17:38:51,871]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 17:38:51,881]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': "{'name': '开发测试平台4104', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}", 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:39:08,563]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678, 'name': "{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}"}
+[2020-06-12 17:39:08,628]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678, 'name': "{'username': '小FFFFFFF', 'password': 12345678}"}
+[2020-06-12 17:39:08,635]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': "{'name': '开发测试平台2307', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}", 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:45:16,879]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 17:45:16,931]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 17:45:16,935]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '#name#', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:47:08,368]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 17:47:08,617]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 17:47:08,621]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 17:47:08,819]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwNDE2MjgsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.WbmoOlwYnMSe-64FNUrBuAbCHPr6M2lBVHNiJLRxosI', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 17:47:08,825]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '#name#', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:47:08,921]-logs.py]-INFO:响应数据：{'id': 40, 'create_time': '2020-06-12T17:47:08.991301+08:00', 'name': '#name#', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:48:11,061]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 17:48:11,150]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 17:48:11,154]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 17:48:11,352]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwNDE2OTEsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.2PtxrnTNWtTxwdQ3rYBPiW27Qs-vm9E7F0oHaJej1X8', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 17:48:11,360]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '开发测试平台6293', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 17:48:11,449]-logs.py]-INFO:响应数据：{'id': 41, 'create_time': '2020-06-12T17:48:11.520552+08:00', 'name': '开发测试平台6293', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 18:02:48,553]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 18:02:48,655]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 18:02:48,659]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 18:02:48,854]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwNDI1NjgsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.moFlMIAybtekQxX1eT2eu8hXWIPwTrpNnpno68rASzI', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 18:02:48,920]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '开发测试平台8969', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 18:02:49,013]-logs.py]-INFO:响应数据：{'id': 42, 'create_time': '2020-06-12T18:02:49.074889+08:00', 'name': '开发测试平台8969', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 18:03:54,833]-logs.py]-INFO:正在测试resigter模块中的第1.0条数据，请求数据：{'username': '小FFFFFFF', 'email': '1316306266@qq.com', 'password': 12345678, 'password_confirm': 12345678}
+[2020-06-12 18:03:54,922]-logs.py]-INFO:响应数据：{'username': ['已存在一位使用该名字的用户。'], 'email': ['此邮箱已注册']}
+[2020-06-12 18:03:54,983]-logs.py]-INFO:正在测试login模块中的第2.0条数据，请求数据：{'username': '小FFFFFFF', 'password': 12345678}
+[2020-06-12 18:03:55,182]-logs.py]-INFO:响应数据：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo1LCJ1c2VybmFtZSI6Ilx1NWMwZkZGRkZGRkYiLCJleHAiOjE1OTIwNDI2MzUsImVtYWlsIjoiMTMxNjMwNjI2NkBxcS5jb20ifQ.964jk2LTls1l7yLNK5dF1pZzbTuEKhNfMtxVs7PKCa8', 'user_id': 5, 'username': '小FFFFFFF'}
+[2020-06-12 18:03:55,189]-logs.py]-INFO:正在测试create_project模块中的第3.0条数据，请求数据：{'name': '开发测试平台6709', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
+[2020-06-12 18:03:55,283]-logs.py]-INFO:响应数据：{'id': 43, 'create_time': '2020-06-12T18:03:55.350272+08:00', 'name': '开发测试平台6709', 'leader': '项目负责人', 'tester': '项目测试人员', 'programmer': '开发人员', 'publish_app': '发布应用', 'desc': '简要概述'}
